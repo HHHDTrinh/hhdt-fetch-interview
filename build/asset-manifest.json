@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.87826376.css",
+    "main.js": "/static/js/main.cc827391.js",
+    "static/media/nofi.svg": "/static/media/nofi.5bad3a1b4352061a96feb46cdc636247.svg",
+    "static/media/bg.svg": "/static/media/bg.8b28a169c448aef7e046af3c71a08356.svg",
+    "static/media/Wifi.svg": "/static/media/Wifi.a59abf1562f854e0f7b01a864fd89fef.svg",
+    "static/media/icon.svg": "/static/media/icon.c9cf0e173ad8d37cb765039ff9da9085.svg",
+    "static/media/user.svg": "/static/media/user.ddb6d30ae4ec4f1ec695534ee37687b4.svg",
+    "static/media/Cellular.svg": "/static/media/Cellular.e3406c077bdd7e07e681e7bff530e7a0.svg",
+    "index.html": "/index.html",
+    "static/media/home.svg": "/static/media/home.7b62ede131d8f748534d7106f264ad7f.svg",
+    "static/media/Battery.svg": "/static/media/Battery.baf4605a8330c40cfde07f1d53a2dfdd.svg",
+    "static/media/button.svg": "/static/media/button.57705b76633fb288e7b71f7396b0787e.svg",
+    "static/media/box.svg": "/static/media/box.3427fc441db89eb13f36fab0915f6210.svg",
+    "static/media/circle.svg": "/static/media/circle.79bbd613554fd89089ea3a3120eb4e40.svg",
+    "main.87826376.css.map": "/static/css/main.87826376.css.map",
+    "main.cc827391.js.map": "/static/js/main.cc827391.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87826376.css",
+    "static/js/main.cc827391.js"
+  ]
+}
